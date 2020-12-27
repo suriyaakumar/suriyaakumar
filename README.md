@@ -32,6 +32,6 @@ foo@bar:~$ skills
 ```console
 foo@bar:~$ github stats
 ```
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suriyaakumar?&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suriyaakumar&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suriyaakumar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
