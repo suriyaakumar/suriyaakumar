@@ -1,15 +1,16 @@
 ```console
-foo@bar:~$ readme stats
+foo@bar:~$ stats overall
 ```
 [![Visits Badge](https://badges.pufler.dev/visits/suriyaakumar/suriyaakumar?style=for-the-badge&labelColor=red&color=white)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/suriyaakumar/suriyaakumar?style=for-the-badge&labelColor=red&color=white)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/suriyaakumar/suriyaakumar?style=for-the-badge&labelColor=red&color=white)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/suriyaakumar?style=for-the-badge&labelColor=blue&color=white)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/suriyaakumar?style=for-the-badge&labelColor=green&color=white)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/suriyaakumar?style=for-the-badge&labelColor=yellow&color=white)](https://badges.pufler.dev)
 
 ```console
 foo@bar:~$ whoami
 Suriyaa Kumar | Student | Web developer | App developer | Music Aficianado | Technogeek |
+My profiles are listed down below.
 ```
-
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/suriyaakumar)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/suriyaa-kumar-bb3820197)
 
@@ -31,11 +32,6 @@ foo@bar:~$ skills
 ```console
 foo@bar:~$ github stats
 ```
-[![Years Badge](https://badges.pufler.dev/years/suriyaakumar?style=for-the-badge&labelColor=red&color=white)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/suriyaakumar?style=for-the-badge&labelColor=red&color=white)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/suriyaakumar?style=for-the-badge&labelColor=red&color=white)](https://badges.pufler.dev)
-
-
 [![Suriyaa Kumar's github stats](https://github-readme-stats.vercel.app/api?username=suriyaakumar&show_icons=true&theme=dark)](https://github.com/suriyaakumar/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suriyaakumar&layout=compact&theme=dark)](https://github.com/suriyaakumar/github-readme-stats)
 
