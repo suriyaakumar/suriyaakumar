@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+```console
+foo@bar:~$ whoami
+foo
+```
