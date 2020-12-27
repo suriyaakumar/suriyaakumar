@@ -7,6 +7,7 @@ When I'm not on my computer learning or developing, I spend my time playing game
 
 foo@bar:~$ github stats
 
-[![Suriyaa Kumar's github stats](https://github-readme-stats.vercel.app/api?username=suriyaakumar)](https://github.com/suriyaakumar/github-readme-stats)
 
 ```
+
+[![Suriyaa Kumar's github stats](https://github-readme-stats.vercel.app/api?username=suriyaakumar)](https://github.com/suriyaakumar/github-readme-stats)
