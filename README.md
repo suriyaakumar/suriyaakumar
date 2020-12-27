@@ -1,6 +1,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/suriyaakumar/suriyaakumar?style=for-the-badge&labelColor=red)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/suriyaakumar/suriyaakumar?style=for-the-badge&labelColor=red)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/suriyaakumar/react-recipe-app?style=for-the-badge&labelColor=red)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/suriyaakumar/suriyaakumar?style=for-the-badge&labelColor=red)](https://badges.pufler.dev)
 
 ```console
 foo@bar:~$ whoami
