@@ -13,7 +13,7 @@ foo@bar:~$ skills
 ![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)
 ![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
-![nodejs](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
+![nodejs](https://img.shields.io/badge/nodejs-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
 
 ```console
 foo@bar:~$ github stats
