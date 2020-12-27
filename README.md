@@ -1,12 +1,4 @@
 ```console
-foo@bar:~$ stats overall
-```
-[![Visits Badge](https://badges.pufler.dev/visits/suriyaakumar/suriyaakumar?style=for-the-badge&labelColor=red&color=white)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/suriyaakumar?style=for-the-badge&labelColor=blue&color=white)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/suriyaakumar?style=for-the-badge&labelColor=green&color=white)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/suriyaakumar?style=for-the-badge&labelColor=yellow&color=white)](https://badges.pufler.dev)
-
-```console
 foo@bar:~$ whoami
 Suriyaa Kumar | Student | Web developer | App developer | Music Aficianado | Technogeek |
 My profiles are listed down below.
@@ -32,6 +24,10 @@ foo@bar:~$ skills
 ```console
 foo@bar:~$ github stats
 ```
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suriyaakumar&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Visits Badge](https://badges.pufler.dev/visits/suriyaakumar/suriyaakumar?style=for-the-badge&labelColor=red&color=white)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/suriyaakumar?style=for-the-badge&labelColor=blue&color=white)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/suriyaakumar?style=for-the-badge&labelColor=green&color=white)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/suriyaakumar?style=for-the-badge&labelColor=yellow&color=white)](https://badges.pufler.dev)
+[![Suriyaa Kumar's github stats](https://github-readme-stats.vercel.app/api?username=suriyaakumar&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suriyaakumar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
