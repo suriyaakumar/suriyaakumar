@@ -8,7 +8,7 @@ foo@bar:~$ stats overall
 
 ```console
 foo@bar:~$ whoami
-Suriyaa Kumar | Student | Web developer | App developer | Music Aficianado | Technogeek |
+Suriyaa Kumar | Student | Web developer | App developer | Music Afici0nado | Technogeek |
 My profiles are listed down below.
 ```
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/suriyaakumar)
