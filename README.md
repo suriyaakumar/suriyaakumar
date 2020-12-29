@@ -13,6 +13,8 @@ My profiles are listed down below.
 ```
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/suriyaakumar)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/suriyaa-kumar-bb3820197)
+[![Website](https://img.shields.io/badge/Website?style=for-the-badge&logo=Netlify&logoColor=white)](https://suriyaakumar.netlify.app/)
+
 
 
 ```console
