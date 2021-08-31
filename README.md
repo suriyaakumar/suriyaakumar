@@ -2,7 +2,7 @@
 foo@bar:~$ stats overall
 ```
 ```
-\[\!\[Visits Badge\](https://badges.pufler.dev/visits/suriyaakumar/suriyaakumar?style=for-the-badge&labelColor=red&color=white)\](https://badges.pufler.dev)
+\[\![Visits Badge](https://badges.pufler.dev/visits/suriyaakumar/suriyaakumar?style=for-the-badge&labelColor=red&color=white)\](https://badges.pufler.dev)
 \[\!\[Years Badge\](https://badges.pufler.dev/years/suriyaakumar?style=for-the-badge&labelColor=blue&color=white)\](https://badges.pufler.dev)
 \[\!\[Repos Badge\](https://badges.pufler.dev/repos/suriyaakumar?style=for-the-badge&labelColor=green&color=white)\](https://badges.pufler.dev)
 \[\!\[Commits Badge\](https://badges.pufler.dev/commits/all/suriyaakumar?style=for-the-badge&labelColor=yellow&color=white)\](https://badges.pufler.dev)
