@@ -31,7 +31,7 @@ foo@bar:~$ ls skills
 ![materializecss](https://img.shields.io/badge/materializecss-★★★-lightgrey?labelColor=0081CB&logo=Material-UI&style=for-the-badge&logoColor=white)
 
 ```console
-foo@bar:~$ github stats
+foo@bar:~$ ls github stats
 ```
 [![Suriyaa Kumar's github stats](https://github-readme-stats.vercel.app/api?username=suriyaakumar&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suriyaakumar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
