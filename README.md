@@ -1,5 +1,5 @@
 ```console
-foo@bar:~$ stats overall
+foo@bar:~$ ls stats
 ```
 
 [![Visits Badge](https://badges.pufler.dev/visits/suriyaakumar/suriyaakumar?style=for-the-badge&labelColor=red&color=white)](https://badges.pufler.dev)
@@ -8,9 +8,7 @@ foo@bar:~$ stats overall
 [![Commits Badge](https://badges.pufler.dev/commits/all/suriyaakumar?style=for-the-badge&labelColor=yellow&color=white)](https://badges.pufler.dev)
 
 ```console
-foo@bar:~$ whoami
-Suriyaa Kumar | Software developer | Music Aficionado | Dreamer |
-Check out my profiles!!
+foo@bar:~$ ls profiles
 ```
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/suriyaakumar)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/suriyaa-kumar-bb3820197)
@@ -18,7 +16,7 @@ Check out my profiles!!
 
 
 ```console
-foo@bar:~$ skills
+foo@bar:~$ ls skills
 ```
 ![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)
 ![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)
