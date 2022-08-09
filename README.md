@@ -1,11 +1,4 @@
-```console
-foo@bar:~$ ls stats
-```
-
-[![Visits Badge](https://badges.pufler.dev/visits/suriyaakumar/suriyaakumar?style=for-the-badge&labelColor=red&color=white)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/suriyaakumar?style=for-the-badge&labelColor=blue&color=white)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/suriyaakumar?style=for-the-badge&labelColor=green&color=white)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/all/suriyaakumar?style=for-the-badge&labelColor=yellow&color=white)](https://badges.pufler.dev)
+<img width='100' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuriyaakumar1212%2Fhit-counter">
 
 ```console
 foo@bar:~$ ls profiles
