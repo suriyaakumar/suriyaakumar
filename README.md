@@ -1,8 +1,15 @@
-<img width='100' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuriyaakumar1212%2Fhit-counter">
+# Suriyaa Kumar
 
-```console
-foo@bar:~$ ls profiles
-```
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/suriyaakumar)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/suriyaa-kumar-bb3820197)
-[![Website suriyaakumar.netlify.app](https://img.shields.io/website-up-down-green-red/http/suriyaakumar.netlify.app.svg?style=for-the-badge&logo=Netlify&labelColor=white)](https://suriyaakumar.netlify.app/)
+<p class="left">
+<img width='75' src="https://visitor-badge.laobi.icu/badge?page_id=suriyaakumar.suriyaakumar">
+<a href="https://in.linkedin.com/in/suriyaa-kumar-bb3820197"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Suriyaa%20Kumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:believeinsurya@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-believeinsurya@gmail.com-red?style=flat-square&logo=gmail"></a>
+<img src="https://badges.peiyuan.ch/leetcode/suriyaakumar/name?logo=leetcode&label=Leetcode&style=flat-square&color=orange">
+<a href="https://suriyaakumar.netlify.app"><img src="https://img.shields.io/website-up-down-green-red/https/suriyaakumar.netlify.app.svg"></a>
+</p>
+
+## About Me
+
+I work as a Software Developer in Cloudify and I mainly work with Javascript and REST APIs. I write integration workflows between platforms and develop connectors for APIs as well as being involved in front-end app development. In my spare time, I choose to improve my skills by working on new and existing personal projects and experiment with them.
+
+I can be contacted via Linkedin or email and you can do so, by clicking the respective platform badges above.
