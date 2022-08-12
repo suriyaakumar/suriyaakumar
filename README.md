@@ -4,7 +4,7 @@
 <img width='75' src="https://visitor-badge.laobi.icu/badge?page_id=suriyaakumar.suriyaakumar">
 <a href="https://in.linkedin.com/in/suriyaa-kumar-bb3820197"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Suriyaa%20Kumar-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:believeinsurya@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-believeinsurya@gmail.com-red?style=flat-square&logo=gmail"></a>
-<img src="https://badges.peiyuan.ch/leetcode/suriyaakumar/name?logo=leetcode&label=Leetcode&style=flat-square&color=orange">
+<a href="https://leetcode.com/suriyaakumar/"><img src="https://badges.peiyuan.ch/leetcode/suriyaakumar/name?logo=leetcode&label=Leetcode&style=flat-square&color=orange"></a>
 <a href="https://suriyaakumar.netlify.app"><img src="https://img.shields.io/website-up-down-green-red/https/suriyaakumar.netlify.app.svg"></a>
 </p>
 
