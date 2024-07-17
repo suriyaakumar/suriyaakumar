@@ -10,6 +10,6 @@
 
 ## About Me
 
-I work as a Software Developer in Cloudify and I mainly work with Javascript and REST APIs. I write integration workflows between platforms and develop connectors for APIs as well as being involved in front-end app development. In my spare time, I choose to improve my skills by working on new and existing personal projects and experiment with them.
+I'm a software developer who's experienced with web and app development stacks as well as SaaS integrations and BPA workflows. I have a working knowledge of various CRM, accounting and e-commerce software that allows me to build integration workflows that makes the best use of these softwares to maximise productivity. 
 
 I can be contacted via Linkedin or email and you can do so, by clicking the respective platform badges above.
