@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Suriyaa Kumar</h1>
-<h3 align="center">Software Development Engineer specializing in Full-Stack and Cloud Technologies[cite: 1]</h3>
+<h3 align="center">Software Development Engineer specializing in Full-Stack and Cloud Technologies</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/suriyaakumar" target="_blank">
