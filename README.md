@@ -23,7 +23,7 @@ Also: tRPC · Express · REST/OpenAPI · Drizzle ORM · PlanetScale · Cosmos DB
 **[Blog RAG and Evaluation](https://github.com/suriyaakumar/blog-rag-eval)**  
 A retrieval-augmented chatbot for my blog, with heading-aware Markdown chunking, Gemini embeddings, S3-backed vectors, and a Lambda query API. GitHub Actions keeps the index in sync, reusing unchanged embeddings. Includes similarity filtering, source attribution, and a 15-case evaluation dataset.
 
-**[Portfolio & Blog](https://github.com/suriyaakumar/suriyaa.dev)**  
+**[Portfolio & Blog](https://github.com/suriyaakumar/portfolio)**  
 My home on the web for projects, technical writing, and a chatbot grounded in my blog content.
 
 <details>
