@@ -8,7 +8,7 @@ I'm a software engineer from India 🇮🇳, focused on backend systems and comf
 - ⚙️ Previously at **Cloudify**, building a B2B SaaS platform and event-driven integrations for **25+ European clients**, spanning **50,000+ integration records**.
 - ❤️ I enjoy writing **TypeScript**, designing typed APIs, and turning repeated workflows into reusable abstractions.
 - 🔎 Building **Blog RAG and Evaluation** with Python, Gemini, and AWS: incremental ingestion, embedding reuse, source attribution, and retrieval evaluation.
-- 🎸 Outside software, I'm into alternative rock, grunge, and writing music.
+- 🎸 Outside software, I'm into sad cartoons, weird music and artsy movies.
 
 **Tools I work with**
 
